@@ -1,0 +1,5 @@
+if(condition) {
+    /// condition - TRUE
+} elxe {
+    /// condition - FALSEs
+}
